@@ -1,0 +1,14 @@
+{
+  "second": "{number} Second",
+  "phone_registered": "Numéro de téléphone déjà enregistré",
+  "have_notice": "J’ai lu et compris le traitement de mes données personnelles tel que décrit dans l’Avis de confidentialité du RGPD",
+  "looks_account": "Il semble que ce numéro soit déjà associé à un compte existant.",
+  "log_account": "Connectez-vous à votre compte",
+  "enter_number": "Saisissez le numéro de téléphone",
+  "use_account": "Nous utilisons votre numéro de téléphone pour identifier et vérifier votre compte en toute sécurité.",
+  "incorrect_number": "Numéro de téléphone incorrect",
+  "enter_code": "Entrer le code",
+  "weve_messages": "Nous avons envoyé un SMS à ce numéro + 40 *** 111.\nVeuillez vérifier vos messages.",
+  "next": "Suivant",
+  "number_second": "{number} Second"
+}
