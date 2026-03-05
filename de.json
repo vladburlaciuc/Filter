@@ -1,0 +1,14 @@
+{
+  "second": "{number} Second",
+  "phone_registered": "Telefonnummer bereits registriert",
+  "have_notice": "Ich habe die Verarbeitung meiner personenbezogenen Daten, wie sie in der DSGVO-Datenschutzerklärung festgelegt ist, gelesen und verstanden",
+  "looks_account": "Es sieht so aus, als wäre diese Nummer bereits mit einem bestehenden Konto verknüpft.",
+  "log_account": "Melden Sie sich in Ihrem Konto an",
+  "enter_number": "Geben Sie die Telefonnummer ein",
+  "use_account": "Wir nutzen Ihre Telefonnummer, um Ihr Konto sicher zu identifizieren und zu verifizieren.",
+  "incorrect_number": "Falsche Telefonnummer",
+  "enter_code": "Code eingeben",
+  "weve_messages": "Wir haben eine SMS an diese Nummer + 40 *** 111 geschickt.\nBitte überprüfen Sie Ihre Nachrichten.",
+  "next": "Als Nächstes",
+  "number_second": "{number} Second"
+}
