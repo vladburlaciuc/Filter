@@ -1,0 +1,14 @@
+{
+  "second": "{\"one\":\"Your SMS code is on its way! Haven’t received it yet?\\nRequest a new code in {count} second...\",\"other\":\"Your SMS code is on its way! Haven’t received it yet?\\nRequest a new code in {count} seconds...\"}",
+  "phone_registered": "Phone Number Already Registered",
+  "have_notice": "I have read and understood the processing of my personal data as outlined in the GDPR Privacy Notice",
+  "looks_account": "It looks like this number is already associated with an existing account.",
+  "log_account": "Log in to your account",
+  "enter_number": "Enter phone number",
+  "use_account": "We use your phone number to securely identify and verify your account.",
+  "incorrect_number": "Incorrect phone number",
+  "enter_code": "Enter code",
+  "weve_messages": "We've sent an SMS to this number + 40 *** 111.\nPlease check your messages.",
+  "next": "Next",
+  "number_second": "{\"one\":\"Your SMS code is on its way! Haven’t received it yet?\\nRequest a new code in {count} second...\",\"other\":\"Your SMS code is on its way! Haven’t received it yet?\\nRequest a new code in {count} seconds...\"}"
+}
